@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "transmission.Plugins", "transmission.Plugins.csproj", "{174EB708-4F61-322C-38E3-7A1C72E9674A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "transmission", "transmission.csproj", "{196FDF36-5B20-AAE7-DF66-61C8AE0F3720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "transmission.Editor.Plugins", "transmission.Editor.Plugins.csproj", "{74AD74AA-BFD3-175B-ABAB-9E94344F36ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{174EB708-4F61-322C-38E3-7A1C72E9674A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{174EB708-4F61-322C-38E3-7A1C72E9674A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{174EB708-4F61-322C-38E3-7A1C72E9674A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{174EB708-4F61-322C-38E3-7A1C72E9674A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{196FDF36-5B20-AAE7-DF66-61C8AE0F3720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196FDF36-5B20-AAE7-DF66-61C8AE0F3720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196FDF36-5B20-AAE7-DF66-61C8AE0F3720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196FDF36-5B20-AAE7-DF66-61C8AE0F3720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74AD74AA-BFD3-175B-ABAB-9E94344F36ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74AD74AA-BFD3-175B-ABAB-9E94344F36ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74AD74AA-BFD3-175B-ABAB-9E94344F36ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74AD74AA-BFD3-175B-ABAB-9E94344F36ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
