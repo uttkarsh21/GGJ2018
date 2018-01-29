@@ -14,8 +14,8 @@ public class manager : MonoBehaviour {
 
     bool gameover = false;
 
-    float timer = 1f;
-    float delay = 1f;
+    float timer = 2f;
+    float delay = 2f;
 
     int random_sprite;
 
@@ -43,7 +43,7 @@ public class manager : MonoBehaviour {
         }
     }
 
-/*    private void Update()
+private void Update()
     {
         timer -= Time.deltaTime;
         random_sprite = Random.Range(1, 4);
@@ -67,7 +67,7 @@ public class manager : MonoBehaviour {
             timer = delay;
             return;
         }
-    }*/
+    }
 
     void score()
     {

@@ -227,7 +227,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 11, y: 55}
-  m_SizeDelta: {x: 1732.9, y: 515.6}
+  m_SizeDelta: {x: 1014.2, y: 280}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &553668965
 MonoBehaviour:
@@ -250,7 +250,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 347113f7c57b750419f6728b8192520c, type: 3}
-    m_FontSize: 30
+    m_FontSize: 20
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -265,7 +265,8 @@ MonoBehaviour:
     Even a single mistake can result in big problems. You might even lose your job.
     \n\nThe prompt on the middle of the screen (on earth) is the satellite you wanna
     activate. Be careful of how long it takes the data to transmit, if the signal
-    gets there too late then you lose. \n\nNow Transmit that data."
+    gets there too late or gets in the way of another signal then you lose. \n\nNow
+    Transmit that data."
 --- !u!222 &553668966
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -435,15 +435,15 @@ RectTransform:
   m_GameObject: {fileID: 481491765}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.4803724, y: 3.4211743, z: 3.4211743}
+  m_LocalScale: {x: 1, y: 1, z: 3.4211743}
   m_Children: []
   m_Father: {fileID: 1923722032}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 229.4, y: -76.5}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: 138.3, y: -41.299988}
+  m_SizeDelta: {x: 41, y: 62.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &481491767
 MonoBehaviour:
@@ -466,7 +466,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: f9596ddb7ed6fc846a8bd750a742a5c0, type: 3}
-    m_FontSize: 0
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -818,15 +818,15 @@ RectTransform:
   m_GameObject: {fileID: 1161866867}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.01, y: 3.92, z: 1.0231756}
+  m_LocalScale: {x: 1, y: 1, z: 1.0231756}
   m_Children: []
   m_Father: {fileID: 1923722032}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 102, y: -73}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: 57.5, y: -37.8}
+  m_SizeDelta: {x: 99.4, y: 56.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1161866869
 MonoBehaviour:
@@ -849,7 +849,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: f9596ddb7ed6fc846a8bd750a742a5c0, type: 3}
-    m_FontSize: 200
+    m_FontSize: 10
     m_FontStyle: 0
     m_BestFit: 1
     m_MinSize: 0
@@ -860,7 +860,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0
-  m_Text: SCoRE
+  m_Text: score
 --- !u!222 &1161866870
 CanvasRenderer:
   m_ObjectHideFlags: 0
